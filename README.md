@@ -12,7 +12,7 @@
 - 📄 Know about my experiences [Ahmed's Resume](https://drive.google.com/file/d/1MhnbuMDcThm1Fw6aby_OI9hO2i0q3CL4/view?usp=sharing)
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+## 📊 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/ahmed-saleh-harby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-saleh-harby" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8482142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8482142" height="30" width="40" /></a>
